@@ -1,8 +1,8 @@
-# Pakistan Health Data Analysis
+## Pakistan Health Data Analysis
 
 This repository contains an analysis of Pakistan's healthcare data, focusing on the performance of top hospitals in the country for five critical diseases: Cancer, Tuberculosis, Hypertension, Malaria, and Diabetes. A dynamic dashboard was created in Excel to visualize and analyze the data for better insights.
 
-## Key Highlights
+### Key Highlights
 
 - **Data Source**: The dataset includes information on top hospitals in Pakistan and their performance related to five diseases (Cancer, Tuberculosis, Hypertension, Malaria, and Diabetes).
 - **Objective**: The analysis aims to provide an in-depth understanding of healthcare services in Pakistan, focusing on hospital performance, disease distribution, and healthcare accessibility.
